@@ -15,6 +15,13 @@ Players guess a target number (which is encrypted) and get AI-powered hints alon
 - **BETTING CONTRACT ADDRESS:** [0x8Ee9cE6002cc654c59AE7eA36Cf25226bb8cD73C](https://explorer.sepolia.mantle.xyz/address/0x8Ee9cE6002cc654c59AE7eA36Cf25226bb8cD73C?tab=contract)
 - **USDT CONTRACT ADDRESS:** [0xe8D926e2B3bDb668CeFf6773564441C4029F9Da6](https://explorer.sepolia.mantle.xyz/address/0xe8D926e2B3bDb668CeFf6773564441C4029F9Da6?tab=contract)
 
+## **Fomo Wallet Repositories**
+
+- [X-Interactions](https://github.com/Fomo-wallet/x-interactions) (For Twitter)
+- [Contracts](https://github.com/Fomo-wallet/contracts)
+- [Fomo Wallet Client](https://github.com/Fomo-wallet/fomowallet-client)
+- [Polling Server](https://github.com/Fomo-wallet/polling-server)
+
 ## **Core Features**
 
 ---
